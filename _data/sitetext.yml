@@ -1,0 +1,293 @@
+header:
+    title: Welcome to our Expertiseum!
+    text: Expanding Your Areas Of Expertise
+    button: Tell Me More
+    buttonlink: "#timeline"
+
+services:
+    title: "Services"
+    text: "Greetings, people. Expertiseum presents to you a non-profit organization which aims at expanding your areas of expertise. We are determined in developing your skills, creating competency and building a family with the juvenile and talented minds"
+    section: services
+#     list:
+#       - title: "E-Commerce"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#       - title: "Responsive Design"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-laptop
+#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#         desc: "Your description here, full **Markdown** support"
+#         icon: fab fa-markdown
+
+portfolio:
+    title: "Portfolio"
+    text: "Our Works"
+    section: portfolio
+    closebutton: "Close Project"
+
+timeline:
+    title: "About"
+    text: "Who Are We?"
+    section: timeline
+    events:
+      - title: "Our Humble Beginnings"
+        year: "2021"
+        desc: "Founded in 2021 during global Coronavirus pandemic, Expertiseum is managed by a team consisting hardworking and dedicated students.Our motto is to create a platform where people can demonstrate their field of sagacity."
+        image: assets/img/timeline/1.jpg
+        alt: Our Humble Beginnings
+        align: left
+      - title: "An Expertiseum is Born"
+        year: "2021"
+        desc: "You supported us to start our journey! So, We hope that you will always be with us in our journey and support us to achieve our goal."
+        image: assets/img/timeline/2.jpg
+        alt: Born to journey with you
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
+
+about:
+    title: "About Us"
+    text: "A youth-friendly organization. We're determined to bring out latent talents of young geeks, with a focus on spreading those."
+    section: about
+
+clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "yes" #"yes/no"
+#       - title: ""
+#         url:
+#         logo: assets/img/clients/
+
+team:
+    title: "OUR AMAZING TEAM"
+    text: "Our Respective Panel Members."
+    subtext: Here is our panel Members of **Expertiseum** They are working with us for long time and supporting us from the base! This group is a youth-friendly organization. We're determined to bring out latent talents of young geeks, with a focus on spreading those.
+    section: team
+    people:
+      - name: "Abrar Jahin"
+        role: "Web Designer"
+        image: assets/img/team/abrar.jpg
+        social:
+          - url: https://twitter.com/aj_palok
+            icon: fab fa-twitter
+          - url: https://facebook.com/aj.palok5
+            icon: fab fa-facebook-f
+      - name: "Abdullah Mohammad"
+        role: "Academic Executive"
+        image: assets/img/team/abdullah.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Abdullah Abir"
+        role: "Chief Database Officer"
+        image: assets/img/team/abir.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Abu Bakar Siddique"
+        role: "Chief GFXD Officer"
+        image: assets/img/team/abu bakar.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Majedul Haque Akash"
+        role: "Chief M&P Officer"
+        image: assets/img/team/akash.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Istiak Ahmed Anik"
+        role: "Academic Executive"
+        image: assets/img/team/anik.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Aritrya Saha"
+        role: "GFXD Executive"
+        image: assets/img/team/aritrya saha.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Aysho Chowdhury"
+        role: "HRM Secretary"
+        image: assets/img/team/aysho.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Dewan Sami"
+        role: "IT Secretary"
+        image: assets/img/team/sami.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Mahi Zaman"
+        role: "WDD Secretary"
+        image: assets/img/team/mahi.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Debojit Saha"
+        role: "Academic Executive"
+        image: assets/img/team/debojit.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Raisa Tabassum Joeta"
+        role: "Chief HRM Officer"
+        image: assets/img/team/joeta.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Siam Ahmed Mahin"
+        role: "Academic Executive"
+        image: assets/img/team/mahin.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Fairuz Haque Mohona"
+        role: "Administrative Secretary"
+        image: assets/img/team/mohona.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Nadim Mahmud"
+        role: "Chief WDD Officer"
+        image: assets/img/team/nadim.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Tasnimul Hasan Tahsin"
+        role: "Videographic Manager"
+        image: assets/img/team/tahsin.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Hasibur Rahman Touhid"
+        role: "GFXD Secretary"
+        image: assets/img/team/touhid.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "S M Shad Hasan"
+        role: "HRM Executive"
+        image: assets/img/team/shad.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Mariyam Mahbub Prapti"
+        role: "Database Secretary"
+        image: assets/img/team/prapti.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Protik Bhowmik"
+        role: "Chief IT Officer"
+        image: assets/img/team/protik.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Ayesha Joha Purnota"
+        role: "Academic Executive"
+        image: assets/img/team/purnota.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Ragib Ishraq"
+        role: "Academic Secretary"
+        image: assets/img/team/ragib.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Shafqatur Rahman Sadat"
+        role: "Chief Academic Officer"
+        image: assets/img/team/sadat.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Sadia Afrin"
+        role: "HRM Executive"
+        image: assets/img/team/sadia.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Sajid Rahman"
+        role: "M&P Secretary"
+        image: assets/img/team/sajid.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "Syed Shahriar Hossain Turjo"
+        role: "Chief Administrative Officer"
+        image: assets/img/team/turjo.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+contact:
+    title: "Contact Us"
+    text: "Contact from here..."
+    section: contact
+
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://facebook.com/Expertiseum
+        icon: "fab fa-facebook-f"
+      - url: https://instagram.com/expertiseum01
+        icon: "fab fa-instagram"
+      - url: https://github.com/expertiseum
+        icon: "fab fa-github"
+      # - url: https://twitter.com
+      #   icon: "fab fa-twitter"
+      # - url: https://linkedin.com
+      #   icon: "fab fa-linkedin-in"
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
