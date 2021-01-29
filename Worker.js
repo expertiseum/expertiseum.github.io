@@ -1,9 +1,6 @@
 const static2HAAS = '2HAAS-cache-v1';
 const assets = [
-  '/',
-  '/panel/',
-  '/about/',
-  '/assets/js/app.js'
+  '/'
 ];
 self.addEventListener('install', evt => {
   evt.waitUntil(
