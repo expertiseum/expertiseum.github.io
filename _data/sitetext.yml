@@ -67,9 +67,9 @@ team:
         role: "Web Designer"
         image: assets/img/team/abrar.jpg
         social:
-          - url: https://twitter.com/aj_palok
+          - url: https://twitter.com/ajpalok
             icon: fab fa-twitter
-          - url: https://facebook.com/aj.palok5
+          - url: https://facebook.com/ajpalok.fb
             icon: fab fa-facebook-f
       - name: "Abdullah Mohammad"
         role: "Academic Executive"
